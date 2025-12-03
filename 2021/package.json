@@ -1,0 +1,10 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "description": "Advent Of Code tasks",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "ArttX",
+  "license": "ISC"
+}
